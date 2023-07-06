@@ -1,0 +1,29 @@
+.banner{
+    background-image: url(../nt1.jpeg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    padding-top: 40px;
+    color:rgb(251, 251, 251);
+}
+.button{
+ border-radius: 20%;
+ background-color: transparent;
+}
+.c{
+    text-align: center;
+    font-size: xx-large;
+}
+.im img{
+    text-align: center;
+    height: 200px;
+    width: 300px;
+    border-radius: 5%;
+    box-shadow: 3px 2px ;
+}
+.p {
+    text-align: center;
+}
